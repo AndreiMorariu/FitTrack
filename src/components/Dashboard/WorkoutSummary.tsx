@@ -197,9 +197,7 @@ export default function WorkoutSummary({
 					<Dumbbell className="h-4 w-4 text-muted-foreground" />
 				</CardHeader>
 				<CardContent>
-					<div className="text-2xl font-bold">
-						{favoriteExercise || "Unknown"}
-					</div>
+					<div className="text-2xl font-bold">{favoriteExercise || "N/A"}</div>
 				</CardContent>
 			</Card>
 			<Card>
@@ -227,10 +225,10 @@ export default function WorkoutSummary({
 					<CardTitle className="text-sm font-medium">
 						Most Frequent Type Of Exercise
 					</CardTitle>
-					<Moon className="h-4 w-4 text-muted-foreground" />
+					<Award className="h-4 w-4 text-muted-foreground" />
 				</CardHeader>
 				<CardContent>
-					<div className="text-2xl font-bold">{mostFrequentType}</div>
+					<div className="text-2xl font-bold">{mostFrequentType || "N/A"}</div>
 				</CardContent>
 			</Card>
 		</>
