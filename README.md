@@ -19,13 +19,12 @@ FitTrack is a fitness tracking web application built with React that empowers us
 - User-Friendly Interface: Designed with a clean and intuitive layout, FitTrack ensures a seamless experience for users of all fitness levels, making it easy to navigate through the application and access various features.
 
 ## Dasboard Page
+![dashboard](https://github.com/user-attachments/assets/305d590b-5c6f-4d42-8f73-faf72ab21970)
 
-![dashboard](https://github.com/user-attachments/assets/32c00cb1-ce6a-43c2-8287-1f53a1f5ca31)
 
 ## Workouts Page
+![workouts](https://github.com/user-attachments/assets/78dd2895-1bf8-4d2c-be5e-54e009fc1317)
 
-![workouts](https://github.com/user-attachments/assets/099854ff-b126-4782-adae-3b8aa70e3f26)
 
 ## Goals Page
-
-![goals](https://github.com/user-attachments/assets/6b354988-7fb9-4d07-824e-72bad0d5bff2)
+![goals](https://github.com/user-attachments/assets/c75a82ed-af51-4646-9ba9-da31effb108e)
